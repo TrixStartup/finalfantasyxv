@@ -1,0 +1,25 @@
+ /* logo jogos */
+ .imglogo{
+  max-width: 1068px;
+  margin: auto;
+  width: 32%;
+  margin-top: 10%;
+}
+#arma1{
+    margin: auto ; 
+    width: 30%;
+  }
+
+  #arma2{
+    width: 23%;
+    margin-top: 2%;
+  }
+
+  #arma3{
+    width: 24%;
+    margin-top: 2%;
+  }
+
+  #perso2{   
+    bottom: -5%;
+  }
